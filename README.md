@@ -44,4 +44,4 @@ This project highlights the design and execution of a LinkedIn Ads campaign usin
 ---
 
 ## 📁 Project Structure
-
+growthpulse-linkedin-campaign/ │ ├── creatives/ # Visual ad designs ├── data/ # Performance exports (CSV/Excel) ├── reports/ # Weekly reports and insights ├── utm_links/ # UTM tracking details ├── scripts/ # Optional: Python scripts for analysis └── README.md # Project documentation
